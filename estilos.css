@@ -1,0 +1,24 @@
+body {
+	background-color: #eee;
+}
+p {
+	color: rgb(0,0,0);
+}
+#button_envio {
+	background-color: blue;
+	padding: px;
+	margin: 0;
+	border: 2px solid white;
+	transition: 2s;
+}
+#button_envio:hover {
+	background-color: red;
+	color: white;
+	padding: 4px;
+}
+.teste {
+	margin: 10px;
+	padding: 10px;
+	color: tomato;
+	background-color: white;
+}
